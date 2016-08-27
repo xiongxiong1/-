@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>accessorView</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>修改密码</string>
+				<key>icon</key>
+				<string>xiugaimima</string>
+			</dict>
+			<dict>
+				<key>accessorView</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>商品管理</string>
+				<key>icon</key>
+				<string>shangpinguanli</string>
+			</dict>
+			<dict>
+				<key>accessorView</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>数据统计</string>
+				<key>icon</key>
+				<string>shujutongji</string>
+			</dict>
+		</array>
+		<key>Footer</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>accessorView</key>
+				<string>UIButton</string>
+				<key>icon</key>
+				<string>shifoushangban</string>
+				<key>title</key>
+				<string>上否上班</string>
+			</dict>
+			<dict>
+				<key>accessorView</key>
+				<string>UIButton</string>
+				<key>icon</key>
+				<string>lanyalianjie</string>
+				<key>title</key>
+				<string>蓝牙连接</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
